@@ -1,0 +1,50 @@
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+container {
+    width: 970px;
+}
+
+div {
+    display: inline-block;
+}
+
+#pics {
+    width: 500px;
+}
+
+#pokedex {
+    
+    height: 600px;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    position: fixed;
+    top: 12px;
+    right: 12px;
+    border: 10px solid red;
+    margin-left: 500px;
+    text-align: center;
+}
+
+img {
+    padding: 5px;
+}
+
+h3, p, ul {
+    padding: 10px;
+    margin: 10px;
+}
+
+ul {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+li {
+    padding: 10px;
+}
